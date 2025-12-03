@@ -1,0 +1,13 @@
+[project]
+name = "fox-fetcher"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.123.5",
+    "fastmcp>=2.13.2",
+    "newspaper4k>=0.9.4.1",
+    "playwright>=1.56.0",
+    "uvicorn>=0.38.0",
+]
