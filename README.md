@@ -1,3 +1,13 @@
+---
+title: Fox Fetcher
+emoji: ⚡
+colorFrom: indigo
+colorTo: indigo
+sdk: docker
+pinned: false
+app_port: 8000
+---
+
 # Fox Fetcher MCP Server
 
 An MCP (Model Context Protocol) server providing a `fetch_url` tool that uses Playwright to fetch HTML content from websites.
